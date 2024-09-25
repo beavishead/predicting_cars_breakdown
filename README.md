@@ -5,4 +5,4 @@ The prediction of a class of car breakdown for car sharing.
 3. Add features about users and fixes 17-->44 [driver_info.csv](Competitive_Data_Science/data/driver_info.csv) [fixes_info.csv](Competitive_Data_Science/data/fixes_info.csv)
 
 **ACCCURASY - 0.98274 !**
-[View the notebook](cars_training.ipynb)
+Link to ipynb - [View the notebook](cars_training.ipynb)

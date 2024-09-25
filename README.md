@@ -1,1 +1,1 @@
-[View the notebook](cars_training.ipynb)
+[[View the notebook on nbviewer](https://nbviewer.jupyter.org/github/your-username/your-repo/blob/main/notebook.ipynb)](https://nbviewer.org/github/beavishead/predicting_cars_breakdown/blob/main/cars_training.ipynb)
